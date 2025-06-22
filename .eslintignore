@@ -1,0 +1,5 @@
+src/assets/*
+src/stories/assets/*
+src/components/FetchDataTable/FetchDataTable.tsx
+src/components/detailsForms/*
+src/components/autocomplets/*
